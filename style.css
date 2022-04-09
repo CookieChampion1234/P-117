@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color:aqua;
+}
+#score{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: right;
+    margin-right: 100px;
+}
+#timer{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    margin-left: 100px;
+}
